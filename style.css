@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.nav {
+	padding:10px;
+}
+
+header{
+	background-color: #f7b000;
+	padding: 15px;
+	text-align: center;
+}
+
+#logo, nav{
+	padding:10px; 
+}
+
+h1{
+	color: #4e4e4e;
+	font-size:440px;
+}
+
+span.branco{
+	color:#fff;
+}s
+
+a{
+	text-decoration: none;
+	
+}
+p {
+	margin-bottom: 10px;
+}
